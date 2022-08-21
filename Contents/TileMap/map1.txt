@@ -1,0 +1,7 @@
+0 Tile.png 8 6
+1 Tile2.png 11 7
+2 pepe.png 1 1
+3 N
+TileSize 20 20
+TileScale 50 50
+TilePosition 0 0
